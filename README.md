@@ -1,2 +1,2 @@
 # jj-optim
-Contains data and codes for the backlog minimization algorithm for JJ
+Contains data processing code and algorithm code for the production planning project for JJ. This is testing branch. 
